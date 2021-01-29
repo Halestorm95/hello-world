@@ -1,2 +1,3 @@
 # hello, world
-# I have no idea what I'm doing
+Name = "Halestorm95"
+Print(f'{name} has no idea what hes doing')
